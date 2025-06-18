@@ -1,74 +1,104 @@
-
 {
   "site": {
-    "name": "Ashapura Brass Industries",
-    "tagline": "Precision Engineering Excellence",
-    "favicon": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=32&q=80"
+    "name": "Shiv Brass Precision Components",
+    "favicon": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?auto=format&fit=crop&w=32&q=80",
+    "tagline": "Precision Engineering for Critical Industries"
   },
-  "company": {
-    "name": "Ashapura Brass Industries",
-    "tagline": "Precision Engineering Excellence",
-    "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=100&q=80",
-    "description": "At ashapura brass industries we produce precision components."
-  },
-  "contact": {
-    "address": "Digvijay plot, jamnagar, gujrat",
-    "phone": "+91-9876543210",
-    "email": "info@ashabrass.com",
-    "timing": [
+  "footer": {
+    "social": [
       {
-        "label": "Mon - Fri",
-        "hours": "9:00 AM - 6:00 PM"
+        "url": "https://facebook.com/shivbrassindustries",
+        "icon": "facebook",
+        "platform": "facebook"
       },
       {
-        "label": "Saturday",
-        "hours": "9:00 AM - 2:00 PM"
+        "url": "https://linkedin.com/company/shiv-brass-precision",
+        "icon": "linkedin",
+        "platform": "linkedin"
+      },
+      {
+        "url": "https://twitter.com/shivbrasstech",
+        "icon": "twitter",
+        "platform": "twitter"
+      },
+      {
+        "url": "https://instagram.com/shivbrassmanufacturing",
+        "icon": "instagram",
+        "platform": "instagram"
+      }
+    ],
+    "branding": {
+      "url": "https://ferralabs.in",
+      "text": "Made with ❤️ by",
+      "company": "Ferralabs"
+    },
+    "navigation": [
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about",
+        "label": "About Us"
+      },
+      {
+        "href": "/services",
+        "label": "Services"
+      },
+      {
+        "href": "/products",
+        "label": "Products"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact"
       }
     ]
   },
   "header": {
     "navigation": [
-      { "label": "Home", "href": "/" },
-      { "label": "About Us", "href": "/about" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Products", "href": "/products" },
-      { "label": "Contact", "href": "/contact" }
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about",
+        "label": "About Us"
+      },
+      {
+        "href": "/services",
+        "label": "Services"
+      },
+      {
+        "href": "/products",
+        "label": "Products"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact"
+      }
     ]
   },
-  "footer": {
-    "navigation": [
-      { "label": "Home", "href": "/" },
-      { "label": "About Us", "href": "/about" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Products", "href": "/products" },
-      { "label": "Contact", "href": "/contact" }
-    ],
-    "social": [
+  "company": {
+    "logo": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?auto=format&fit=crop&w=100&q=80",
+    "name": "Shiv Brass Precision Components",
+    "tagline": "Precision Engineering for Critical Industries",
+    "description": "With 30 years of expertise, Shiv Brass specializes in manufacturing high-precision components for automotive and aerospace industries. We deliver exceptional quality through custom and mass production services, utilizing advanced manufacturing techniques and rigorous quality control."
+  },
+  "contact": {
+    "email": "info@shivbrasscomponents.com",
+    "phone": "+91-9876543210",
+    "timing": [
       {
-        "platform": "facebook",
-        "url": "https://facebook.com/lorem",
-        "icon": "facebook"
+        "hours": "9:00 AM - 6:00 PM",
+        "label": "Mon - Fri"
       },
       {
-        "platform": "linkedin",
-        "url": "https://linkedin.com/company/lorem",
-        "icon": "linkedin"
-      },
-      {
-        "platform": "twitter",
-        "url": "https://twitter.com/lorem",
-        "icon": "twitter"
-      },
-      {
-        "platform": "instagram",
-        "url": "https://instagram.com/lorem",
-        "icon": "instagram"
+        "hours": "9:00 AM - 1:00 PM",
+        "label": "Sat"
       }
     ],
-    "branding": {
-      "text": "Made with ❤️ by",
-      "company": "Ferralabs",
-      "url": "https://ferralabs.in" 
-    }
-  }
+    "address": "Plot 45, Industrial Area, Sector 58, Noida, Uttar Pradesh 201301, India"
+  },
+  "system_prompt": "You are a professional web developer and designer specializing in creating modern, responsive websites. Your task is to generate website content and structure based on the provided company information. Follow these guidelines:\n\n1. **Content Generation**: Create compelling, professional content that reflects the company's industry and values\n2. **Design Principles**: Use modern web design trends, ensure mobile responsiveness, and prioritize user experience\n3. **SEO Optimization**: Include relevant keywords naturally in content and meta descriptions\n4. **Brand Consistency**: Maintain consistent tone and messaging throughout all content\n5. **Technical Standards**: Follow web accessibility guidelines and best practices\n\nWhen generating content, be specific, engaging, and tailored to the target audience. Use active voice and clear, concise language."
 }
