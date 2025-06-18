@@ -1,50 +1,93 @@
-
 {
-  "meta": {
-    "title": "Lorem Us - Lorem Industries",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
-  },
   "hero": {
-    "type": "image",
+    "type": "gradient",
+    "title": "Contact Us",
     "enabled": true,
-    "title": "Lorem Us",
-    "subtitle": "Lorem ipsum dolor sit amet",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing.",
-    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "Get in Touch for Your Precision Components Needs",
+    "description": "Ready to discuss your manufacturing requirements? Contact our expert team for consultation and competitive quotes."
+  },
+  "meta": {
+    "title": "Contact Us - Shiv Brass",
+    "description": "Get in touch with Shiv Brass for precision components manufacturing. Contact us for quotes, inquiries, and support."
   },
   "sections": {
-    "contactInfo": {
-      "type": "contact-info",
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Start Your Precision Manufacturing Project?",
       "enabled": true,
-      "title": "Lorem Information",
-      "subtitle": "Lorem ways to reach us",
-      "items": [
-        {
-          "type": "address",
-          "title": "Our Lorem",
-          "content": "Lorem No. 42, Lorem Industrial Estate, Lorem - 361004, Lorem, India",
-          "icon": "map-pin"
-        },
-        {
-          "type": "phone",
-          "title": "Lorem",
-          "content": "+91 288 123 4567",
-          "icon": "phone"
-        },
-        {
-          "type": "email",
-          "title": "Lorem",
-          "content": "info@lorem.com",
-          "icon": "mail"
-        }
-      ]
+      "subtitle": "Contact us today for a consultation and competitive quotes for automotive and aerospace components.",
+      "primaryCTA": {
+        "text": "Get Quote",
+        "action": "#contact-form"
+      },
+      "secondaryCTA": {
+        "text": "View Products",
+        "action": "/products"
+      }
     },
     "contactForm": {
       "type": "contact-form",
+      "title": "Send us a Message",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "label": "Full Name",
+          "required": true
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "label": "Email Address",
+          "required": true
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Company Name",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Phone Number",
+          "required": false
+        },
+        {
+          "name": "message",
+          "type": "textarea",
+          "label": "Message",
+          "required": true
+        }
+      ],
       "enabled": true,
-      "title": "Send us a Lorem",
-      "subtitle": "Lorem out the form and we'll get back to you",
-      "items": []
+      "subtitle": "Fill out the form below and we'll get back to you within 24 hours"
+    },
+    "contactInfo": {
+      "type": "contact-info",
+      "items": [
+        {
+          "icon": "map-pin",
+          "type": "address",
+          "title": "Visit Us",
+          "content": "Plot No. 45, Industrial Area, Pune, Maharashtra 411033, India"
+        },
+        {
+          "icon": "phone",
+          "type": "phone",
+          "title": "Call Us",
+          "content": "+91 20 4567 8900"
+        },
+        {
+          "icon": "mail",
+          "type": "email",
+          "title": "Email Us",
+          "content": "info@shivbrass.com"
+        }
+      ],
+      "title": "Get in Touch",
+      "enabled": true,
+      "subtitle": "Multiple ways to reach our precision manufacturing team"
     }
   }
 }
