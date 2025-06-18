@@ -1,0 +1,50 @@
+
+{
+  "meta": {
+    "title": "Lorem Us - Lorem Industries",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+  },
+  "hero": {
+    "type": "image",
+    "enabled": true,
+    "title": "Lorem Us",
+    "subtitle": "Lorem ipsum dolor sit amet",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing.",
+    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+  },
+  "sections": {
+    "contactInfo": {
+      "type": "contact-info",
+      "enabled": true,
+      "title": "Lorem Information",
+      "subtitle": "Lorem ways to reach us",
+      "items": [
+        {
+          "type": "address",
+          "title": "Our Lorem",
+          "content": "Lorem No. 42, Lorem Industrial Estate, Lorem - 361004, Lorem, India",
+          "icon": "map-pin"
+        },
+        {
+          "type": "phone",
+          "title": "Lorem",
+          "content": "+91 288 123 4567",
+          "icon": "phone"
+        },
+        {
+          "type": "email",
+          "title": "Lorem",
+          "content": "info@lorem.com",
+          "icon": "mail"
+        }
+      ]
+    },
+    "contactForm": {
+      "type": "contact-form",
+      "enabled": true,
+      "title": "Send us a Lorem",
+      "subtitle": "Lorem out the form and we'll get back to you",
+      "items": []
+    }
+  }
+}

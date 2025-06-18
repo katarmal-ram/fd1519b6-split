@@ -1,0 +1,74 @@
+
+{
+  "site": {
+    "name": "Ashapura Brass Industries",
+    "tagline": "Precision Engineering Excellence",
+    "favicon": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=32&q=80"
+  },
+  "company": {
+    "name": "Ashapura Brass Industries",
+    "tagline": "Precision Engineering Excellence",
+    "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=100&q=80",
+    "description": "At ashapura brass industries we produce precision components."
+  },
+  "contact": {
+    "address": "Digvijay plot, jamnagar, gujrat",
+    "phone": "+91-9876543210",
+    "email": "info@ashabrass.com",
+    "timing": [
+      {
+        "label": "Mon - Fri",
+        "hours": "9:00 AM - 6:00 PM"
+      },
+      {
+        "label": "Saturday",
+        "hours": "9:00 AM - 2:00 PM"
+      }
+    ]
+  },
+  "header": {
+    "navigation": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Us", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Products", "href": "/products" },
+      { "label": "Contact", "href": "/contact" }
+    ]
+  },
+  "footer": {
+    "navigation": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Us", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Products", "href": "/products" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "social": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/lorem",
+        "icon": "facebook"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://linkedin.com/company/lorem",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/lorem",
+        "icon": "twitter"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/lorem",
+        "icon": "instagram"
+      }
+    ],
+    "branding": {
+      "text": "Made with ❤️ by",
+      "company": "Ferralabs",
+      "url": "https://ferralabs.in" 
+    }
+  }
+}

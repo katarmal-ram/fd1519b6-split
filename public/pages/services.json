@@ -1,0 +1,199 @@
+
+{
+  "meta": {
+    "title": "Brass Manufacturing Services - Shiv Brass Industries",
+    "description": "Comprehensive brass component manufacturing services including forging, machining, finishing, and quality assurance"
+  },
+  "hero": {
+    "type": "video",
+    "enabled": true,
+    "title": "Brass Manufacturing Services",
+    "subtitle": "Comprehensive solutions for precision brass components",
+    "backgroundVideo": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part_seemoxrjtx__456bda19ebbb32c7b3b6e1208019deab__P1080.mp4?response-content-disposition=attachment%3Bfilename%3Dauthomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview.mp4",
+    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80"
+  },
+  "sections": {
+    "services": {
+      "type": "services",
+      "enabled": true,
+      "title": "Our Manufacturing Services",
+      "subtitle": "Complete brass solutions from design to delivery",
+      "items": [
+        {
+          "id": "cnc-machining",
+          "title": "Precision CNC Machining",
+          "description": "Advanced CNC machining services for complex brass components with tight tolerances and superior surface finish.",
+          "capabilities": [
+            "Multi-axis CNC turning",
+            "High-precision milling",
+            "Thread cutting & tapping",
+            "Custom tooling",
+            "Tolerance ±0.001mm",
+            "24/7 production capability"
+          ],
+          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "brass-forging",
+          "title": "Brass Forging",
+          "description": "Hot and cold forging processes to create strong, durable brass components for demanding applications.",
+          "capabilities": [
+            "Hot forging",
+            "Cold forging",
+            "Die forging",
+            "Upset forging",
+            "Custom alloy development",
+            "Tool making & design"
+          ],
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "quality-assurance",
+          "title": "Quality Assurance & Testing",
+          "description": "Comprehensive quality control and testing services to ensure components meet specifications and standards.",
+          "capabilities": [
+            "Dimensional inspection",
+            "Material testing",
+            "Pressure testing",
+            "Chemical analysis",
+            "ISO 9001:2015 certified",
+            "Chemical composition analysis"
+          ],
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "design-development",
+          "title": "Design & Development",
+          "description": "Engineering design and product development services for custom brass components and applications.",
+          "capabilities": [
+            "CAD/CAM design",
+            "Rapid prototyping",
+            "Finite element analysis",
+            "Material selection",
+            "Process optimization",
+            "Value engineering"
+          ],
+          "image": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "surface-treatment",
+          "title": "Surface Treatment & Finishing",
+          "description": "Various surface treatment and finishing options to enhance component performance and appearance.",
+          "capabilities": [
+            "Electroplating",
+            "Powder coating",
+            "Anodizing",
+            "Polishing & buffing",
+            "Nickel plating",
+            "Chrome plating"
+          ],
+          "image": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "assembly-packaging",
+          "title": "Assembly & Packaging",
+          "description": "Complete assembly services and custom packaging solutions for finished brass components.",
+          "capabilities": [
+            "Sub-assembly services",
+            "Final assembly",
+            "Custom packaging",
+            "Bulk packaging",
+            "Labeling & marking",
+            "Logistics support"
+          ],
+          "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80"
+        }
+      ]
+    },
+    "capabilities": {
+      "type": "capabilities",
+      "enabled": true,
+      "title": "Manufacturing Capabilities",
+      "subtitle": "Advanced technology and expertise for superior results",
+      "items": [
+        {
+          "id": "production-capacity",
+          "title": "Production Capacity",
+          "description": "High-volume production capabilities with flexible scheduling",
+          "metrics": [
+            { "label": "Monthly Capacity", "value": "500,000 units" },
+            { "label": "Operating Hours", "value": "24/7 operation" },
+            { "label": "Lead Time", "value": "2-4 weeks" }
+          ]
+        },
+        {
+          "id": "material-expertise",
+          "title": "Material Expertise",
+          "description": "Extensive knowledge of brass alloys and their applications",
+          "metrics": [
+            { "label": "Alloy Types", "value": "50+ grades" },
+            { "label": "Material Testing", "value": "Full certification" },
+            { "label": "Custom Alloys", "value": "Available" }
+          ]
+        },
+        {
+          "id": "precision-standards",
+          "title": "Precision Standards",
+          "description": "Meeting the highest precision standards in the industry",
+          "metrics": [
+            { "label": "Tolerance", "value": "±0.001mm" },
+            { "label": "Surface Finish", "value": "Ra 0.1μm" },
+            { "label": "Quality Rate", "value": "99.8%" }
+          ]
+        }
+      ]
+    },
+    "manufacturing-process": {
+      "type": "manufacturing-process",
+      "enabled": true,
+      "title": "Our Manufacturing Process",
+      "subtitle": "From concept to delivery - precision at every step",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Design & Engineering",
+          "description": "Collaborative design process with advanced CAD/CAM technology and engineering analysis"
+        },
+        {
+          "step": 2,
+          "title": "Material Selection",
+          "description": "Selecting the optimal brass alloy for your specific application requirements"
+        },
+        {
+          "step": 3,
+          "title": "Precision Manufacturing",
+          "description": "CNC machining and forging using state-of-the-art equipment"
+        },
+        {
+          "step": 4,
+          "title": "Quality Control",
+          "description": "Rigorous testing and inspection at every stage with certified procedures"
+        },
+        {
+          "step": 5,
+          "title": "Finishing & Assembly",
+          "description": "Surface finishing treatments and assembly services as required"
+        },
+        {
+          "step": 6,
+          "title": "Delivery & Support",
+          "description": "Timely delivery with comprehensive documentation and ongoing support"
+        }
+      ]
+    },
+    "cta": {
+      "type": "cta",
+      "enabled": true,
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let our experienced team help you bring your brass component requirements to life with precision and excellence.",
+      "primaryCTA": {
+        "text": "Contact Our Experts",
+        "action": "/contact"
+      },
+      "secondaryCTA": {
+        "text": "Free Consultation",
+        "action": "tel:+91-288-2710234"
+      }
+    }
+  }
+}
