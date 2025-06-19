@@ -9,7 +9,7 @@
     "enabled": true,
     "subtitle": "Excellence in Precision Manufacturing Since 1993",
     "description": "Shiv Brass has been a pioneering force in precision component manufacturing for three decades, delivering high-quality brass components to the automobile and aerospace industries. Our commitment to innovation and quality has made us a trusted partner for complex manufacturing solutions.",
-    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3"
   },
   "meta": {
     "title": "Shiv Brass - Precision Manufacturing Excellence Since 1993",
@@ -37,20 +37,20 @@
           "id": "manufacturing-excellence",
           "year": 2022,
           "title": "Manufacturing Excellence Award",
-          "authority": "National Manufacturing Association",
+          "authority": "Indian Manufacturing Association",
           "description": "Recognized for outstanding precision manufacturing and technological innovation in brass component production"
         },
         {
           "id": "export-achievement",
           "year": 2021,
           "title": "Export Excellence Award",
-          "authority": "Chamber of Commerce",
-          "description": "Acknowledged for significant contributions to international trade and global manufacturing standards"
+          "authority": "Ministry of Commerce",
+          "description": "Honored for significant contributions to export of precision engineering components"
         }
       ],
       "title": "Awards & Recognition",
       "enabled": true,
-      "subtitle": "Celebrating Our Commitment to Manufacturing Excellence"
+      "subtitle": "Celebrating Excellence in Precision Manufacturing"
     },
     "certificates": {
       "type": "certificates",
@@ -83,22 +83,22 @@
         {
           "year": 1998,
           "title": "First Major Expansion",
-          "description": "Expanded manufacturing facilities and invested in advanced CNC machinery to enhance production capabilities"
+          "description": "Expanded manufacturing facilities and invested in advanced CNC machinery"
         },
         {
           "year": 2005,
-          "title": "Quality Certification Achievement",
-          "description": "Obtained ISO 9001 certification, setting new industry standards for manufacturing precision"
+          "title": "ISO Certification Achievement",
+          "description": "Obtained first ISO 9001 certification, establishing rigorous quality management systems"
         },
         {
           "year": 2015,
-          "title": "International Market Expansion",
-          "description": "Successfully expanded global footprint, serving automobile and aerospace clients internationally"
+          "title": "Aerospace Sector Entry",
+          "description": "Successfully developed precision components for aerospace industry, expanding market reach"
         },
         {
           "year": 2022,
           "title": "Technology Modernization",
-          "description": "Implemented advanced automation and AI-driven quality control systems"
+          "description": "Implemented advanced automation and digital manufacturing technologies"
         }
       ],
       "title": "Our Journey",
@@ -110,20 +110,20 @@
       "items": [
         {
           "id": "cnc-machines",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-          "title": "Advanced CNC Manufacturing",
-          "capacity": "25 High-Precision CNC Machines",
-          "description": "State-of-the-art CNC machinery enabling complex brass component manufacturing with micron-level precision",
-          "specifications": "Multi-axis capabilities, automated tool changing, real-time monitoring"
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3",
+          "title": "Advanced CNC Machining Center",
+          "capacity": "12 High-Precision CNC Machines",
+          "description": "State-of-the-art CNC machining capabilities for complex brass component manufacturing",
+          "specifications": "Precision tolerance: ±0.01mm, Multi-axis capabilities"
         }
       ],
       "title": "Our Infrastructure",
       "enabled": true,
-      "subtitle": "Cutting-Edge Manufacturing Capabilities"
+      "subtitle": "Advanced Manufacturing Capabilities"
     },
     "companyOverview": {
       "type": "company-overview",
-      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3",
       "items": [
         {
           "id": "overview",
@@ -131,12 +131,12 @@
           "highlights": [
             "ISO 9001:2015 Certified",
             "Advanced CNC Manufacturing",
-            "Global Presence",
+            "Global Market Presence",
             "Custom Engineering Solutions",
             "Dedicated Customer Support",
-            "Comprehensive Manufacturing Capabilities",
+            "Precision Manufacturing Capabilities",
             "Sustainable Manufacturing Practices",
-            "99.9% On-Time Delivery Rate"
+            "99.8% On-Time Delivery Rate"
           ]
         }
       ],
@@ -157,31 +157,31 @@
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Precision brass alloy selection based on specific component requirements"
+          "description": "Precise brass alloy selection based on component requirements and industry standards"
         },
         {
           "id": "production",
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Advanced CNC machining with multi-axis capabilities for complex geometries"
+          "description": "Advanced CNC machining and turning processes for complex component production"
         },
         {
           "id": "quality",
           "step": 4,
           "title": "Quality Assurance",
-          "description": "Rigorous multi-stage inspection using coordinate measuring machines and optical comparators"
+          "description": "Comprehensive multi-stage quality inspection using advanced metrology equipment"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Advanced surface finishing including polishing, plating, and coating processes"
+          "description": "Advanced surface finishing techniques including polishing and protective coating"
         },
         {
           "id": "delivery",
           "step": 6,
-          "title": "Packaging & Delivery",
-          "description": "Precision packaging with complete traceability and global shipping capabilities"
+          "title": "Packaging and Delivery",
+          "description": "Secure packaging and efficient logistics ensuring safe component transportation"
         }
       ],
       "title": "Manufacturing Process",
