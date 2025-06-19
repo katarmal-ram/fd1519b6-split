@@ -1,67 +1,23 @@
 {
   "hero": {
-    "type": "gradient",
-    "title": "Contact Us",
+    "type": "image",
+    "title": "Contact Shiv Brass Precision Components",
     "enabled": true,
-    "subtitle": "Get in Touch for Your Precision Components Needs",
-    "description": "Ready to discuss your manufacturing requirements? Contact our expert team for consultation and competitive quotes."
+    "subtitle": "Your Trusted Partner in Precision Manufacturing",
+    "description": "We're ready to discuss your precision component requirements for automotive and aerospace applications. Our expert team is standing by to provide comprehensive solutions.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4d267"
   },
   "meta": {
-    "title": "Contact Us - Shiv Brass",
-    "description": "Get in touch with Shiv Brass for precision components manufacturing. Contact us for quotes, inquiries, and support."
+    "title": "Shiv Brass - Precision Components Manufacturing Contact",
+    "description": "Connect with Shiv Brass precision manufacturing experts. Quick response, custom solutions for automotive and aerospace industries."
   },
   "sections": {
-    "cta": {
-      "type": "cta",
-      "title": "Ready to Start Your Precision Manufacturing Project?",
-      "enabled": true,
-      "subtitle": "Contact us today for a consultation and competitive quotes for automotive and aerospace components.",
-      "primaryCTA": {
-        "text": "Get Quote",
-        "action": "#contact-form"
-      },
-      "secondaryCTA": {
-        "text": "View Products",
-        "action": "/products"
-      }
-    },
     "contactForm": {
       "type": "contact-form",
-      "title": "Send us a Message",
-      "fields": [
-        {
-          "name": "name",
-          "type": "text",
-          "label": "Full Name",
-          "required": true
-        },
-        {
-          "name": "email",
-          "type": "email",
-          "label": "Email Address",
-          "required": true
-        },
-        {
-          "name": "company",
-          "type": "text",
-          "label": "Company Name",
-          "required": false
-        },
-        {
-          "name": "phone",
-          "type": "tel",
-          "label": "Phone Number",
-          "required": false
-        },
-        {
-          "name": "message",
-          "type": "textarea",
-          "label": "Message",
-          "required": true
-        }
-      ],
+      "items": [],
+      "title": "Send Us Your Inquiry",
       "enabled": true,
-      "subtitle": "Fill out the form below and we'll get back to you within 24 hours"
+      "subtitle": "Fill out the form and our team will respond within 24 hours with a comprehensive solution"
     },
     "contactInfo": {
       "type": "contact-info",
@@ -69,25 +25,31 @@
         {
           "icon": "map-pin",
           "type": "address",
-          "title": "Visit Us",
-          "content": "Plot No. 45, Industrial Area, Pune, Maharashtra 411033, India"
+          "title": "Our Manufacturing Facility",
+          "content": "Plot 45, Industrial Area, Pune, Maharashtra, India 411033"
         },
         {
           "icon": "phone",
           "type": "phone",
-          "title": "Call Us",
+          "title": "Direct Contact",
           "content": "+91 20 4567 8900"
         },
         {
           "icon": "mail",
           "type": "email",
-          "title": "Email Us",
+          "title": "Email Communication",
           "content": "info@shivbrass.com"
+        },
+        {
+          "icon": "linkedin",
+          "type": "social",
+          "title": "LinkedIn Profile",
+          "content": "linkedin.com/company/shivbrass"
         }
       ],
-      "title": "Get in Touch",
+      "title": "Multiple Ways to Connect",
       "enabled": true,
-      "subtitle": "Multiple ways to reach our precision manufacturing team"
+      "subtitle": "We're accessible through multiple channels to serve your precision manufacturing needs"
     }
   }
 }
