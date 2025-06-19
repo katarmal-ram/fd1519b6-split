@@ -1,28 +1,28 @@
 {
   "site": {
     "name": "Shiv Brass Precision Components",
-    "favicon": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?auto=format&fit=crop&w=32&q=80",
-    "tagline": "Precision Engineering for Critical Industries"
+    "favicon": "https://images.unsplash.com/photo-1600783245891-f5d81e3b1a3b?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=60",
+    "tagline": "Precision Engineering Excellence"
   },
   "footer": {
     "social": [
       {
-        "url": "https://facebook.com/shivbrassindustries",
+        "url": "https://facebook.com/shivbrass",
         "icon": "facebook",
         "platform": "facebook"
       },
       {
-        "url": "https://linkedin.com/company/shiv-brass-precision",
+        "url": "https://linkedin.com/company/shiv-brass",
         "icon": "linkedin",
         "platform": "linkedin"
       },
       {
-        "url": "https://twitter.com/shivbrasstech",
+        "url": "https://twitter.com/shivbrass",
         "icon": "twitter",
         "platform": "twitter"
       },
       {
-        "url": "https://instagram.com/shivbrassmanufacturing",
+        "url": "https://instagram.com/shivbrass",
         "icon": "instagram",
         "platform": "instagram"
       }
@@ -80,25 +80,24 @@
     ]
   },
   "company": {
-    "logo": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?auto=format&fit=crop&w=100&q=80",
+    "logo": "https://images.unsplash.com/photo-1600880292203-757bb72dde14?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
     "name": "Shiv Brass Precision Components",
-    "tagline": "Precision Engineering for Critical Industries",
-    "description": "With 30 years of expertise, Shiv Brass specializes in manufacturing high-precision components for automotive and aerospace industries. We deliver exceptional quality through custom and mass production services, utilizing advanced manufacturing techniques and rigorous quality control."
+    "tagline": "Precision Engineering Excellence",
+    "description": "With 30 years of expertise, Shiv Brass specializes in manufacturing high-precision components for automotive and aerospace industries. We deliver exceptional quality through custom and mass production services."
   },
   "contact": {
-    "email": "info@shivbrasscomponents.com",
-    "phone": "+91-9876543210",
+    "email": "info@shivbrass.com",
+    "phone": "+91-022-4567-8901",
     "timing": [
       {
         "hours": "9:00 AM - 6:00 PM",
-        "label": "Mon - Fri"
+        "label": "Monday - Friday"
       },
       {
         "hours": "9:00 AM - 1:00 PM",
-        "label": "Sat"
+        "label": "Saturday"
       }
     ],
-    "address": "Plot 45, Industrial Area, Sector 58, Noida, Uttar Pradesh 201301, India"
-  },
-  "system_prompt": "You are a professional web developer and designer specializing in creating modern, responsive websites. Your task is to generate website content and structure based on the provided company information. Follow these guidelines:\n\n1. **Content Generation**: Create compelling, professional content that reflects the company's industry and values\n2. **Design Principles**: Use modern web design trends, ensure mobile responsiveness, and prioritize user experience\n3. **SEO Optimization**: Include relevant keywords naturally in content and meta descriptions\n4. **Brand Consistency**: Maintain consistent tone and messaging throughout all content\n5. **Technical Standards**: Follow web accessibility guidelines and best practices\n\nWhen generating content, be specific, engaging, and tailored to the target audience. Use active voice and clear, concise language."
+    "address": "Plot 45, Industrial Area, Pune - 411014, Maharashtra, India"
+  }
 }
