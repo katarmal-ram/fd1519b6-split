@@ -1,14 +1,14 @@
 {
   "hero": {
     "type": "image",
-    "title": "Precision Components for Automotive & Aerospace",
+    "title": "Precision Components for Critical Industries",
     "enabled": true,
-    "subtitle": "High-Quality Brass Components Engineered for Performance and Reliability",
+    "subtitle": "High-Quality Brass Components for Automotive and Aerospace Applications",
     "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e"
   },
   "meta": {
     "title": "Shiv Brass | Precision Automotive & Aerospace Components",
-    "description": "Leading manufacturer of precision brass components for automotive and aerospace industries. High-quality spark plugs, electrical terminals, and pneumatic parts."
+    "description": "Leading manufacturer of precision brass components for automotive and aerospace industries with 30 years of expert manufacturing experience."
   },
   "products": {
     "categories": [
@@ -20,7 +20,7 @@
           {
             "id": "brass-spark-plugs",
             "name": "Brass Spark Plugs",
-            "image": "https://images.unsplash.com/photo-1586191582106-a45a2e6559e0",
+            "image": "https://images.unsplash.com/photo-1586864387967-14b243ffc4d1",
             "description": "High-performance brass spark plugs designed for optimal engine efficiency and durability",
             "applications": [
               "Passenger Vehicles",
@@ -29,32 +29,32 @@
               "Industrial Engines"
             ],
             "specifications": [
-              "Precision-machined brass construction",
-              "Temperature range: -40°C to 250°C",
-              "Compatible with multiple engine types",
-              "High electrical conductivity"
+              "High Thermal Conductivity",
+              "Corrosion Resistant",
+              "Temperature Range: -40°C to 250°C",
+              "Precision Machined Design"
             ]
           },
           {
             "id": "brass-electrical-terminals",
             "name": "Brass Electrical Terminals",
-            "image": "https://images.unsplash.com/photo-1516737490857-848138dace26",
+            "image": "https://images.unsplash.com/photo-1516737490857-848138dace79",
             "description": "Precision-engineered brass electrical terminals for reliable electrical connections",
             "applications": [
               "Automotive Electrical Systems",
-              "Industrial Equipment",
-              "Aerospace Wiring",
-              "Electrical Panel Connections"
+              "Industrial Control Panels",
+              "Electronic Equipment",
+              "Electrical Machinery"
             ],
             "specifications": [
-              "High corrosion resistance",
-              "Multiple size configurations",
-              "Temperature rating up to 150°C",
-              "Meets international electrical standards"
+              "High Conductivity",
+              "Corrosion Resistant",
+              "Multiple Size Configurations",
+              "ISO 9001 Certified"
             ]
           }
         ],
-        "description": "Specialized brass components for automotive applications, ensuring superior performance and reliability"
+        "description": "Specialized brass components engineered for automotive performance and reliability"
       },
       {
         "id": "pneumatic-components",
@@ -65,53 +65,53 @@
             "id": "brass-valves",
             "name": "Brass Pneumatic Valves",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "Precision brass valves for advanced pneumatic systems and control applications",
+            "description": "Precision brass valves for advanced pneumatic systems and industrial applications",
             "applications": [
-              "Industrial Automation",
-              "Aerospace Hydraulic Systems",
-              "Manufacturing Equipment",
-              "Robotic Systems"
+              "Industrial Machinery",
+              "Automation Systems",
+              "Robotics",
+              "Manufacturing Equipment"
             ],
             "specifications": [
-              "Pressure rating: 0-10 bar",
-              "Corrosion-resistant brass construction",
-              "Temperature range: -20°C to 120°C",
-              "Multiple port configurations"
+              "High Pressure Ratings",
+              "Precise Flow Control",
+              "Temperature Resistant",
+              "Multiple Port Configurations"
             ]
           },
           {
             "id": "brass-cylinders",
             "name": "Brass Pneumatic Cylinders",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "High-precision brass pneumatic cylinders for demanding industrial applications",
+            "description": "Robust brass pneumatic cylinders for precise motion control and industrial applications",
             "applications": [
               "Material Handling",
               "Packaging Machinery",
-              "Automotive Assembly",
-              "Precision Manufacturing"
+              "Automated Production Lines",
+              "Robotic Systems"
             ],
             "specifications": [
-              "Bore sizes: 25mm-150mm",
-              "Stroke lengths: 50mm-500mm",
-              "High-strength brass material",
-              "Precision-ground surfaces"
+              "High Durability",
+              "Precision Machined",
+              "Multiple Bore Sizes",
+              "Low Friction Design"
             ]
           }
         ],
-        "description": "Advanced brass pneumatic components designed for maximum performance and reliability"
+        "description": "Advanced brass pneumatic components for critical industrial applications"
       }
     ],
     "categoriesTitle": "Our Product Categories",
     "allProductsTitle": "Complete Product Range",
-    "categoriesSubtitle": "Find the Perfect Precision Components for Your Application",
-    "allProductsSubtitle": "Comprehensive Brass Solutions for Automotive and Aerospace Industries"
+    "categoriesSubtitle": "Find the Perfect Precision Components for Your Needs",
+    "allProductsSubtitle": "Comprehensive Solutions for Automotive and Aerospace Industries"
   },
   "sections": {
     "cta": {
       "type": "cta",
       "title": "Need Custom Precision Components?",
       "enabled": true,
-      "subtitle": "Our engineering team is ready to develop tailored solutions for your specific requirements",
+      "subtitle": "Our experts are ready to develop tailored solutions for your specific requirements",
       "primaryCTA": {
         "text": "Request Custom Quote",
         "action": "/contact"
@@ -126,7 +126,7 @@
       "items": [],
       "title": "Explore Our Product Range",
       "enabled": true,
-      "subtitle": "High-Quality Precision Brass Components for Critical Applications"
+      "subtitle": "30 Years of Precision Manufacturing Excellence"
     }
   }
 }
