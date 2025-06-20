@@ -4,18 +4,18 @@
     "title": "Contact Shiv Brass Precision Components",
     "enabled": true,
     "subtitle": "Your Trusted Partner in Precision Manufacturing",
-    "description": "We're ready to discuss your precision component requirements for automotive and aerospace applications. Our expert team is standing by to provide comprehensive solutions.",
-    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4d267"
+    "description": "Ready to discuss your precision component requirements? Our expert team is here to provide tailored solutions for automotive and aerospace industries.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4c4e1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
   },
   "meta": {
     "title": "Shiv Brass - Precision Components Manufacturing Contact",
-    "description": "Connect with Shiv Brass precision manufacturing experts. Quick response, custom solutions for automotive and aerospace industries."
+    "description": "Connect with Shiv Brass experts for custom precision manufacturing solutions. 30 years of experience in automotive and aerospace components."
   },
   "sections": {
     "contactForm": {
       "type": "contact-form",
       "items": [],
-      "title": "Send Us Your Inquiry",
+      "title": "Send Us Your Requirements",
       "enabled": true,
       "subtitle": "Fill out the form and our team will respond within 24 hours with a comprehensive solution"
     },
@@ -26,7 +26,7 @@
           "icon": "map-pin",
           "type": "address",
           "title": "Our Manufacturing Facility",
-          "content": "Plot 45, Industrial Area, Pune, Maharashtra, India 411033"
+          "content": "Plot No. 45, Industrial Area, Pune, Maharashtra, India - 411033"
         },
         {
           "icon": "phone",
@@ -43,13 +43,13 @@
         {
           "icon": "linkedin",
           "type": "social",
-          "title": "LinkedIn Profile",
+          "title": "Connect on LinkedIn",
           "content": "linkedin.com/company/shivbrass"
         }
       ],
       "title": "Multiple Ways to Connect",
       "enabled": true,
-      "subtitle": "We're accessible through multiple channels to serve your precision manufacturing needs"
+      "subtitle": "Accessible, responsive, and committed to your precision manufacturing needs"
     }
   }
 }
