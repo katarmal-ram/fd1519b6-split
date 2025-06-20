@@ -4,26 +4,26 @@
     "title": "Precision Components Manufacturing",
     "enabled": true,
     "subtitle": "Delivering High-Quality Precision Parts for Automotive and Aerospace Industries",
-    "backgroundImage": "",
+    "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
     "backgroundVideo": "https://example.com/manufacturing-process.mp4"
   },
   "meta": {
-    "title": "Precision Components Manufacturing | Shiv Brass | Automotive & Aerospace Solutions",
-    "description": "Expert precision component manufacturing for automotive and aerospace sectors. Custom and mass production services with industry-leading quality standards."
+    "title": "Precision Components Manufacturing | Shiv Brass | Automotive & Aerospace Parts",
+    "description": "Expert precision component manufacturing for automotive and aerospace sectors with 30 years of experience in custom and mass production services."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Ready to Start Your Precision Manufacturing Project?",
+      "title": "Ready to Discuss Your Precision Component Needs?",
       "enabled": true,
-      "subtitle": "Connect with our expert team to transform your component manufacturing needs",
+      "subtitle": "Let our 30 years of expertise deliver the perfect precision solution for your project",
       "primaryCTA": {
         "text": "Request Quote",
         "action": "/contact"
       },
       "secondaryCTA": {
-        "text": "Call Now",
-        "action": "+91-123-456-7890"
+        "text": "Call Experts",
+        "action": "tel:+91-123-456-7890"
       }
     },
     "services": {
@@ -31,109 +31,109 @@
       "items": [
         {
           "id": "custom-manufacturing",
-          "image": "https://unsplash.com/photos/precision-manufacturing",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
           "title": "Custom Manufacturing Services",
-          "description": "We specialize in creating bespoke precision components tailored to your exact specifications. Our advanced manufacturing capabilities ensure high-quality, precision-engineered parts for complex industrial applications.",
+          "description": "We specialize in creating bespoke precision components tailored to your exact specifications. Our custom manufacturing approach ensures precision, quality, and perfect fit for your unique requirements.",
           "capabilities": [
-            "Precision CNC Machining",
-            "Custom Design Engineering",
+            "Precision Design",
             "Prototype Development",
-            "Small to Medium Batch Production"
+            "Small to Medium Batch Production",
+            "Client-Specific Customization"
           ]
         },
         {
           "id": "mass-production",
-          "image": "https://unsplash.com/photos/manufacturing-line",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
           "title": "Mass Production Services",
-          "description": "Our state-of-the-art manufacturing facilities enable large-scale production of precision components with consistent quality and rapid turnaround times. We leverage advanced technologies to meet high-volume manufacturing demands.",
+          "description": "Our advanced manufacturing capabilities enable high-volume production of precision components with consistent quality and rapid turnaround times. We leverage cutting-edge technology to meet large-scale manufacturing needs.",
           "capabilities": [
             "High-Volume Manufacturing",
-            "Automated Production Lines",
-            "Quality Control Systems",
+            "Consistent Quality Control",
+            "Rapid Production Cycles",
             "Scalable Manufacturing Solutions"
           ]
         },
         {
-          "id": "aerospace-components",
-          "image": "https://unsplash.com/photos/aerospace-manufacturing",
-          "title": "Aerospace Component Manufacturing",
-          "description": "We produce critical precision components for aerospace applications, meeting the most stringent quality and performance standards. Our certified processes ensure reliability and excellence in every part.",
+          "id": "automotive-parts",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "title": "Automotive Component Manufacturing",
+          "description": "We produce high-precision automotive components including brass spark plugs, electrical terminals, and pneumatic system parts. Our components meet the highest industry standards for performance and reliability.",
           "capabilities": [
-            "Aerospace-Grade Materials",
-            "Precision Tolerances",
-            "Comprehensive Quality Certification",
-            "Advanced Material Expertise"
+            "Brass Spark Plugs",
+            "Electrical Terminals",
+            "Pneumatic Valves",
+            "Precision Cylinders"
           ]
         }
       ],
       "title": "Our Service Offerings",
       "enabled": true,
-      "subtitle": "Comprehensive Precision Manufacturing Solutions for Diverse Industrial Needs"
+      "subtitle": "Comprehensive Precision Manufacturing Solutions for Diverse Industries"
     },
     "capabilities": {
       "type": "capabilities",
       "items": [
         {
           "id": "production-capacity",
-          "title": "Manufacturing Capacity",
+          "title": "Advanced Production Capabilities",
           "metrics": [
             {
-              "label": "Monthly Production Volume",
-              "value": "50,000+ Components"
+              "label": "Annual Production Volume",
+              "value": "500,000+ Components"
             },
             {
-              "label": "Operating Shifts",
-              "value": "24/7 Production"
+              "label": "Operating Capacity",
+              "value": "24/7 Manufacturing"
             },
             {
-              "label": "Average Delivery Timeline",
+              "label": "Typical Delivery Timeline",
               "value": "2-4 Weeks"
             }
           ],
-          "description": "Our advanced manufacturing facilities enable high-volume, continuous production with rapid turnaround and consistent quality."
+          "description": "Our state-of-the-art manufacturing facility enables high-volume, precision component production with rapid turnaround and consistent quality."
         },
         {
           "id": "technical-expertise",
-          "title": "Technical Capabilities",
+          "title": "Technical Manufacturing Expertise",
           "metrics": [
             {
               "label": "Manufacturing Technologies",
-              "value": "12+ Advanced Systems"
+              "value": "10+ Advanced Techniques"
             },
             {
               "label": "Industry Experience",
-              "value": "25+ Years"
+              "value": "30 Years"
             },
             {
               "label": "Custom Solution Capability",
-              "value": "100% Adaptable"
+              "value": "Unlimited Design Flexibility"
             }
           ],
-          "description": "Leveraging decades of engineering expertise and cutting-edge technologies to deliver innovative manufacturing solutions."
+          "description": "With three decades of experience, we offer unparalleled technical expertise in precision component manufacturing."
         },
         {
           "id": "quality-standards",
-          "title": "Quality Precision",
+          "title": "Precision and Quality Assurance",
           "metrics": [
             {
               "label": "Precision Tolerance",
               "value": "±0.01mm"
             },
             {
-              "label": "Quality Assurance Rate",
-              "value": "99.9%"
+              "label": "Quality Compliance",
+              "value": "ISO 9001:2015"
             },
             {
-              "label": "Certifications",
-              "value": "ISO 9001:2015, AS9100"
+              "label": "Defect Rate",
+              "value": "<0.1%"
             }
           ],
-          "description": "Committed to exceptional quality through rigorous standards, advanced inspection processes, and continuous improvement."
+          "description": "We maintain the highest quality standards through rigorous precision manufacturing and comprehensive quality control processes."
         }
       ],
-      "title": "Our Advanced Capabilities",
+      "title": "Our Manufacturing Capabilities",
       "enabled": true,
-      "subtitle": "Precision, Technology, and Excellence in Manufacturing"
+      "subtitle": "Advanced Technology Meets Precision Engineering"
     },
     "manufacturing-process": {
       "type": "manufacturing-process",
@@ -141,32 +141,32 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Understand client requirements, technical specifications, and project objectives."
+          "description": "Understand client requirements, specifications, and project goals through detailed technical discussions."
         },
         {
           "step": 2,
-          "title": "Design & Engineering",
-          "description": "Develop detailed design, select optimal materials, and create precise manufacturing blueprints."
+          "title": "Design and Engineering",
+          "description": "Develop precise 3D models and engineering blueprints using advanced CAD technologies."
         },
         {
           "step": 3,
-          "title": "Precision Manufacturing",
-          "description": "Execute production using advanced CNC machinery and specialized manufacturing techniques."
+          "title": "Prototype Development",
+          "description": "Create initial prototypes for client review and validation of design specifications."
         },
         {
           "step": 4,
+          "title": "Precision Manufacturing",
+          "description": "Utilize advanced manufacturing techniques to produce high-precision components."
+        },
+        {
+          "step": 5,
           "title": "Quality Inspection",
           "description": "Conduct comprehensive quality checks using advanced metrology equipment."
         },
         {
-          "step": 5,
-          "title": "Surface Finishing",
-          "description": "Apply necessary surface treatments, coatings, and final precision adjustments."
-        },
-        {
           "step": 6,
-          "title": "Delivery & Support",
-          "description": "Package components securely and provide ongoing technical support and consultation."
+          "title": "Delivery and Support",
+          "description": "Package and deliver components with ongoing technical support and consultation."
         }
       ],
       "title": "Our Manufacturing Process",
