@@ -8,19 +8,19 @@
     "title": "About Shiv Brass",
     "enabled": true,
     "subtitle": "Excellence in Precision Manufacturing Since 1993",
-    "description": "Shiv Brass has been a pioneering force in precision component manufacturing for three decades, delivering high-quality brass components to automotive and aerospace industries. Our commitment to innovation and quality has made us a trusted partner for complex manufacturing solutions.",
-    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3"
+    "description": "With three decades of expertise, Shiv Brass has been a pioneering force in precision component manufacturing for automotive and aerospace industries. Our commitment to quality and innovation drives us to deliver exceptional precision parts that meet the most demanding specifications.",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
     "title": "Shiv Brass - Precision Manufacturing Excellence Since 1993",
-    "description": "Leading precision brass component manufacturer with 30 years of expertise, serving automotive and aerospace industries with advanced manufacturing solutions."
+    "description": "Leading precision components manufacturer with 30 years of experience serving automotive and aerospace industries with high-quality brass components."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Partner with Manufacturing Excellence",
+      "title": "Partner with Industry Leaders",
       "enabled": true,
-      "subtitle": "Transform Your Component Manufacturing with Our Proven Expertise",
+      "subtitle": "Transform Your Manufacturing Capabilities with Shiv Brass",
       "primaryCTA": {
         "text": "Get Quote",
         "action": "/contact"
@@ -35,22 +35,22 @@
       "items": [
         {
           "id": "manufacturing-excellence",
-          "year": 2022,
+          "year": "2022",
           "title": "Manufacturing Excellence Award",
           "authority": "National Manufacturing Association",
-          "description": "Recognized for outstanding precision manufacturing and technological innovation in brass component production"
+          "description": "Recognized for outstanding precision manufacturing and technological innovation in component production"
         },
         {
           "id": "quality-leadership",
-          "year": 2021,
+          "year": "2021",
           "title": "Quality Leadership Award",
           "authority": "Industrial Quality Institute",
-          "description": "Awarded for consistent high-quality manufacturing standards and process improvements"
+          "description": "Acknowledged for consistent high-quality manufacturing standards and process improvements"
         }
       ],
       "title": "Awards & Recognition",
       "enabled": true,
-      "subtitle": "Celebrating Three Decades of Manufacturing Excellence"
+      "subtitle": "Celebrating Excellence in Precision Manufacturing"
     },
     "certificates": {
       "type": "certificates",
@@ -76,45 +76,45 @@
       "type": "company-journey",
       "items": [
         {
-          "year": 1993,
-          "title": "Company Foundation",
-          "description": "Established with a vision to provide high-precision brass components for emerging automotive and industrial sectors"
+          "year": "1993",
+          "title": "Foundation",
+          "description": "Established Shiv Brass with a vision to provide high-precision brass components for critical industries"
         },
         {
-          "year": 1998,
+          "year": "2000",
           "title": "First Major Expansion",
           "description": "Expanded manufacturing facilities and invested in advanced CNC machining technologies"
         },
         {
-          "year": 2005,
-          "title": "ISO Certification Achievement",
-          "description": "Obtained first ISO 9001 certification, establishing rigorous quality management systems"
+          "year": "2010",
+          "title": "Aerospace Certification",
+          "description": "Achieved aerospace industry certifications, expanding into high-precision component manufacturing"
         },
         {
-          "year": 2015,
-          "title": "Aerospace Sector Entry",
-          "description": "Successfully expanded into aerospace component manufacturing with specialized precision parts"
+          "year": "2018",
+          "title": "Global Market Reach",
+          "description": "Established international partnerships and expanded export capabilities"
         },
         {
-          "year": 2022,
-          "title": "Digital Transformation",
-          "description": "Implemented advanced digital manufacturing and real-time quality monitoring technologies"
+          "year": "2022",
+          "title": "Technology Upgrade",
+          "description": "Implemented advanced automation and AI-driven quality control systems"
         }
       ],
       "title": "Our Journey",
       "enabled": true,
-      "subtitle": "Three Decades of Growth and Innovation"
+      "subtitle": "Three Decades of Manufacturing Excellence"
     },
     "infrastructure": {
       "type": "infrastructure",
       "items": [
         {
           "id": "cnc-machines",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
           "title": "Advanced CNC Machining Center",
-          "capacity": "12 High-Precision CNC Machines",
-          "description": "State-of-the-art CNC machining center capable of producing complex brass components with micron-level precision",
-          "specifications": "Tolerance: ±0.01mm, Multi-axis Capabilities, Advanced Tool Management"
+          "capacity": "20+ High-Precision CNC Machines",
+          "description": "State-of-the-art CNC machining capabilities for producing complex brass components with micron-level precision",
+          "specifications": "5-axis machining, tolerance ±0.01mm, multi-station configurations"
         }
       ],
       "title": "Our Infrastructure",
@@ -123,20 +123,20 @@
     },
     "companyOverview": {
       "type": "company-overview",
-      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
       "items": [
         {
           "id": "overview",
-          "content": "Shiv Brass is a leading precision brass component manufacturer with 30 years of expertise, specializing in automotive and aerospace sectors. We deliver custom and mass-production solutions using advanced manufacturing technologies and maintaining the highest quality standards.",
+          "content": "Shiv Brass is a leading precision components manufacturer with 30 years of experience specializing in high-quality brass components for automotive and aerospace industries. Our commitment to technological innovation, quality, and customer satisfaction has positioned us as a trusted partner for complex manufacturing requirements.",
           "highlights": [
             "ISO 9001:2015 Certified",
-            "Advanced CNC Manufacturing",
-            "Global Reach: Serving Multiple Countries",
+            "Advanced CNC Machining Technology",
+            "Global Export Capabilities",
             "Custom Engineering Solutions",
             "Dedicated Customer Support",
-            "Comprehensive Manufacturing Capabilities",
-            "Sustainable Manufacturing Practices",
-            "99.8% On-Time Delivery Rate"
+            "Precision Manufacturing",
+            "Sustainable Practices",
+            "99.9% On-Time Delivery Rate"
           ]
         }
       ],
@@ -157,31 +157,31 @@
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Precise brass alloy selection based on component requirements and performance specifications"
+          "description": "Precision material sourcing and verification for optimal component performance"
         },
         {
           "id": "production",
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Advanced CNC machining with multi-axis capabilities for complex component production"
+          "description": "Advanced CNC machining with multi-axis capabilities for complex geometries"
         },
         {
           "id": "quality",
           "step": 4,
           "title": "Quality Assurance",
-          "description": "Rigorous multi-stage quality control with advanced measurement technologies"
+          "description": "Rigorous multi-stage inspection using coordinate measuring machines and optical measurement systems"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Specialized surface finishing including polishing, plating, and coating processes"
+          "description": "Advanced surface finishing techniques including polishing, coating, and precision treatments"
         },
         {
           "id": "delivery",
           "step": 6,
           "title": "Packaging & Delivery",
-          "description": "Secure packaging and efficient logistics ensuring component integrity during transportation"
+          "description": "Secure packaging and traceable shipping with comprehensive documentation"
         }
       ],
       "title": "Manufacturing Process",
